@@ -27,13 +27,13 @@ This project focuses on **real-time weed detection in cotton crops** using **YOL
 ## 🖼 Sample Predictions  and results.
 
 ### 1️⃣ YOLO11 Weed Detection  
-![YOLO11 Weed Detection](https://raw.githubusercontent.com/savalagikadappa/weed-detection-using-YOLO11/main/YOLO11%20weed%20detection.png)  
+![YOLO11 Weed Detection](https://github.com/savalagikadappa/weed-detection-using-YOLO11/blob/main/YOLO11%20weed%20detection)  
 
 ### 2️⃣ Integration of Soft-NMS  
-![Integration of Soft-NMS](https://raw.githubusercontent.com/savalagikadappa/weed-detection-using-YOLO11/main/Integration%20of%20softNMS.png)  
+![Integration of Soft-NMS](https://github.com/savalagikadappa/weed-detection-using-YOLO11/blob/main/Integration%20of%20softNMS)  
 
 ### 3️⃣ YOLO Workflow  
-![YOLO Workflow](https://raw.githubusercontent.com/savalagikadappa/weed-detection-using-YOLO11/main/YOLO%20workflow.png)  
+![YOLO Workflow](https://github.com/savalagikadappa/weed-detection-using-YOLO11/blob/main/YOLO%20workflow)  
 
 
 ## 🚀 Future Improvements  
