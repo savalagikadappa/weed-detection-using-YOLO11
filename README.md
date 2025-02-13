@@ -16,6 +16,11 @@ This project focuses on **real-time weed detection in cotton crops** using **YOL
 - **Size**: 848 labeled images  
 - **Annotations**: YOLO format  
 
+
+### 3️⃣ YOLO Workflow  
+![YOLO Workflow](https://github.com/savalagikadappa/weed-detection-using-YOLO11/blob/main/YOLO%20workflow)  
+
+
 ## 📊 Results  
 | Metric        | YOLO11 | YOLOv10 |
 |--------------|--------|--------|
@@ -32,8 +37,6 @@ This project focuses on **real-time weed detection in cotton crops** using **YOL
 ### 2️⃣ Integration of Soft-NMS  
 ![Integration of Soft-NMS](https://github.com/savalagikadappa/weed-detection-using-YOLO11/blob/main/Integration%20of%20softNMS)  
 
-### 3️⃣ YOLO Workflow  
-![YOLO Workflow](https://github.com/savalagikadappa/weed-detection-using-YOLO11/blob/main/YOLO%20workflow)  
 
 
 ## 🚀 Future Improvements  
